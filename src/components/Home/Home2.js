@@ -19,11 +19,14 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            A developer with this skill set bridges the gap between front-end and back-end development, ensuring seamless user experiences and robust server-side functionality. Their expertise in DevOps practices and CI/CD pipelines automates the deployment process, reducing errors and increasing deployment frequency. By leveraging containerization and IaC, they create scalable and consistent environments. Additionally, their focus on performance optimization and scalability ensures applications can grow and perform efficiently under increasing loads. This holistic approach is essential for modern, agile development teams aiming for rapid, reliable, and scalable software delivery.
+            A developer with this skill set bridges the gap between front-end and back-end development, ensuring seamless user experiences and robust server-side functionality. Their expertise in DevOps practices and CI/CD pipelines automates the deployment process, reducing errors and increasing deployment frequency. By leveraging containerization and IaC, they create scalable and consistent environments. Additionally, their focus on performance optimization and scalability ensures applications can grow and perform efficiently under increasing loads. This holistic approach is essential for modern, agile development teams aiming for rapid, reliable, and scalable software delivery 
+i am holding Google IT Support Professional Certificates in System Administration and IT Infrastructure Services, as well as IT Security, is a highly skilled IT professional. They possess strong expertise in managing and maintaining IT systems, including both Windows and Linux operating systems, server management, and network infrastructure. They are proficient in cloud services, automation, backup and recovery, and monitoring IT infrastructure.
+
+In the realm of IT security, they are well-versed in cybersecurity principles, threat analysis, and implementing robust security measures for networks and endpoints. They are adept at managing user access, responding to security incidents, and ensuring compliance with regulatory standards. This individual is known for their problem-solving abilities, commitment to continuous learning, and effective communication skills, making them a valuable asset to any organization.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> python, Javascript and Databases. </b>
+                <b className="purple"> python, Javascript  Databases, and Google IT Support Professional,System Administration and IT Infrastructure Services and google IT Security </b>
               </i>
               <br />
               <br />

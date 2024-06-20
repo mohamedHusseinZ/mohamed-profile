@@ -45,7 +45,7 @@ Networking.
               <ImPointRight /> reading books and watch movies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> painting
             </li>
           </ul>
 
