@@ -13,26 +13,17 @@ function AboutCard() {
             <br />
             As an aspiring full-stack developer, I've cultivated a robust skill set through rigorous academic coursework, personal projects, and self-directed learning..
             <br />
-            • Recent graduate with software
-engineering from moringa school
-bootcamb seeking to launch a career as
-a Full Stack Developer. Eager to apply
-academic knowledge and technical
-skills in Databases:mysql, PostgreSQL,
-MongoDB, Python, JavaScript, React,
-REST APIs, Flask, Django, CSS, and HTML
-to contribute to innovative software
-projects in a professional environment.
-•
-• Relevant Coursework:
-•
-• Full Stack Web Development
-• Database Systems
-• Object-Oriented Programming
-• Web Design and Development
-• Software Engineering
-• Algorithms and Data Structures and
-Networking.
+            • Aspiring Software Engineer with a solid foundation in JavaScript, 
+Python, and various web development frameworks, gained through 
+personal projects and self-directed learning. Profcient in technologies 
+such as React, Flask, Django, FastAPI, and PostgreSQL. Experienced 
+in system administration, IT infrastructure services,Networking, virtualization, 
+containerization (Docker, Kubernetes), and CI/CD (Jenkins, GitLab). 
+Passionate about creating effcient and scalable applications, with a 
+commitment to continuous learning and contributing to open-source 
+projects. Seeking an entry-level position to apply my skills and 
+contribute to impactful projects.
+
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
