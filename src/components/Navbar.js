@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://zaki-profile-new-portfolio.vercel.app"
+                href="https://mohamed-profile.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/mohamedHusseinZ/zaki-profile-new-portfolio"
+                href="https://github.com/mohamedHusseinZ/mohamed-profile"
                 target="_blank"
                 className="fork-btn-inner"
               >
